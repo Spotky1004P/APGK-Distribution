@@ -11,7 +11,7 @@
       "id": "apgk-1.16.5",
       "name": "apgk (Minecraft 1.16.5)",
       "description": "apgk Running Minecraft 1.16.5 (Forge v36.2.39)",
-      "icon": null,
+      "icon": "https://cdn.discordapp.com/attachments/1143160889726468126/1143235480448663645/agpk.png",
       "version": "1.0.0",
       "address": "localhost:25565",
       "minecraftVersion": "1.16.5",
@@ -20,8 +20,8 @@
         "largeImageText": "APGK 서버",
         "largeImageKey": "icon"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.2.39",
@@ -412,7 +412,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 402457833,
-            "url": "https://github.com/Spotky1004P/servers/apgk-1.16.5/forgemods/required/Pixelmon-1.16.5-9.1.7-universal.jar",
+            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/pQsLSLPU/Pixelmon-1.16.5-9.1.7-universal.jar",
             "MD5": "f715945d46ac112eebcc4f4daf6f57f9"
           }
         },
