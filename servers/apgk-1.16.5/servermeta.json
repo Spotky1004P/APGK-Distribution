@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///D:/Launcher_Comm/APGK/APGK-Distribution/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "apgk (Minecraft 1.16.5)",
+    "description": "apgk Running Minecraft 1.16.5 (Forge v36.2.39)",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "APGK 서버",
+      "largeImageText": "APGK 서버",
+      "largeImageKey": "icon"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "36.2.39"
+  },
+  "untrackedFiles": []
+}
