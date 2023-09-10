@@ -9,11 +9,11 @@
   "servers": [
     {
       "id": "apgk-1.16.5",
-      "name": "apgk (Minecraft 1.16.5)",
-      "description": "apgk Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": "https://cdn.discordapp.com/attachments/1143160889726468126/1143235480448663645/agpk.png",
+      "name": "APGK 서버",
+      "description": "APGK 서버 1.16.5 (Forge v36.2.39)",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "AGPK.kro.kr:25500",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "APGK 서버",
