@@ -13,7 +13,7 @@
       "name": "APGK 서버",
       "description": "APGK 서버 1.16.5 (Forge v36.2.39)",
       "version": "1.0.0",
-      "address": "AGPK.kro.kr:25500",
+      "address": "AGPK.kro.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "APGK 서버",
