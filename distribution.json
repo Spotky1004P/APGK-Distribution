@@ -3,21 +3,21 @@
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "1150439575949410445",
-    "smallImageText": "APGK 서버",
+    "smallImageText": "AGPK 서버",
     "smallImageKey": "icon"
   },
   "servers": [
     {
-      "id": "apgk-1.16.5",
       "icon": "https://cdn.discordapp.com/attachments/1143160889726468126/1143235480448663645/agpk.png",
-      "name": "APGK 서버",
-      "description": "APGK 서버 1.16.5 (Forge v36.2.39)",
+      "id": "agpk-1.16.5",
+      "name": "AGPK 서버",
+      "description": "AGPK 서버 1.16.5 (Forge v36.2.39)",
       "version": "1.0.0",
       "address": "AGPK.kro.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "APGK 서버",
-        "largeImageText": "APGK 서버",
+        "shortId": "AGPK 서버",
+        "largeImageText": "AGPK 서버",
         "largeImageKey": "icon"
       },
       "mainServer": true,
