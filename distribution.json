@@ -13,7 +13,7 @@
       "name": "AGPK 서버",
       "description": "AGPK 서버 1.16.5 (Forge v36.2.39)",
       "version": "1.0.0",
-      "address": "AGPK.kro.kr",
+      "address": "pixel.agpk.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "AGPK 서버",
@@ -364,16 +364,6 @@
             "size": 3004632,
             "url": "https://github.com/Spotky1004P/APGK-Distribution/raw/main/servers/apgk-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-2.0.0-beta.5.jar",
             "MD5": "d82d5f9b2fa53ebec80c6cda4b1faa7b"
-          }
-        },
-        {
-          "id": "noppes.npcs:customnpcs:1.16.5.20220728@jar",
-          "name": "Custom NPCs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 12485586,
-            "url": "https://github.com/Spotky1004P/APGK-Distribution/raw/main/servers/apgk-1.16.5/forgemods/required/CustomNPCs-1.16.5.20220728snapshot_1.jar",
-            "MD5": "938c87e02a117a0ceb593bbc7a31578a"
           }
         },
         {
