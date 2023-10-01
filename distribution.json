@@ -13,11 +13,12 @@
       "name": "AGPK 서버",
       "description": "AGPK 서버 1.16.5 (Forge v36.2.39)",
       "version": "1.0.0",
-      "address": "pixel.agpk.kr",
+      "address": "5db260a7.secure.mcv.kr:10045",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "AGPK 서버",
         "largeImageText": "AGPK 서버",
+        "largeImageText": "APGK 서버",
         "largeImageKey": "icon"
       },
       "mainServer": true,
@@ -414,6 +415,17 @@
             "size": 5520538,
             "url": "https://github.com/Spotky1004P/APGK-Distribution/raw/main/servers/apgk-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8_MOD.jar",
             "MD5": "878f344629ded789f99b7afd50b69e58"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 136,
+            "url": "https://github.com/Spotky1004P/APGK-Distribution/raw/main/servers/apgk-1.16.5/files/servers.dat",
+            "MD5": "84aa0af783d08e0d24cae1f2bbf885b7",
+            "path": "servers.dat"
           }
         }
       ]
