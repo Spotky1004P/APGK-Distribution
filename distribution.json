@@ -9,7 +9,7 @@
   "servers": [
     {
       "icon": "https://cdn.discordapp.com/attachments/1143160889726468126/1143235480448663645/agpk.png",
-      "id": "agpk-1.16.5",
+      "id": "apgk-1.16.5",
       "name": "AGPK 서버",
       "description": "AGPK 서버 1.16.5 (Forge v36.2.39)",
       "version": "1.0.0",
@@ -18,7 +18,6 @@
       "discord": {
         "shortId": "AGPK 서버",
         "largeImageText": "AGPK 서버",
-        "largeImageText": "APGK 서버",
         "largeImageKey": "icon"
       },
       "mainServer": true,
@@ -398,13 +397,13 @@
           }
         },
         {
-          "id": "com.pixelmonmod:pixelmon:9.1.7@jar",
+          "id": "com.pixelmonmod:pixelmon:9.1.8@jar",
           "name": "Pixelmon Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 402457833,
-            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/pQsLSLPU/Pixelmon-1.16.5-9.1.7-universal.jar",
-            "MD5": "f715945d46ac112eebcc4f4daf6f57f9"
+            "size": 410259382,
+            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/fI0vON9b/Pixelmon-1.16.5-9.1.8-universal.jar",
+            "MD5": "0fec1d7cdbab8bcc2d72bbbc7857617c"
           }
         },
         {
